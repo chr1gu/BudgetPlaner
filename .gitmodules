@@ -1,0 +1,3 @@
+[submodule "ux/slidenavigation"]
+	path = ux/slidenavigation
+	url = git@github.com:chrigu-ebert/sencha-ux-SlideNavigation.git
