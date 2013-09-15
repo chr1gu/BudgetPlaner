@@ -1,0 +1,20 @@
+{
+  "name": "BudgetPlaner",
+  "version": "0.0.0",
+  "homepage": "https://github.com/chrigu-ebert/BudgetPlaner",
+  "authors": [
+    "Christoph Ebert <ebert86@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "sencha-ux-slidenavigation": ""
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

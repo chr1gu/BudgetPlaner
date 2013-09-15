@@ -7,6 +7,10 @@ TBD
 Project Setup
 =============
 
-Update codebase
-===============
-`git pull --recurse-submodules`
+Update project
+==============
+```
+$ git pull
+$ bower install
+```
+
